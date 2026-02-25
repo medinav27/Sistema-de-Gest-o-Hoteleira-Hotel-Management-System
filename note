@@ -2,3 +2,98 @@ Hotel Management System – Java Full Stack
 A modular hotel management system built with Java and Object-Oriented Programming (OOP) principles. The system simulates real hotel operations, including client check-in/out, room availability, and reservation management. This project demonstrates practical application of Java, structured business logic, and modular system design.
 
 Key Skills: Java, OOP, Data Structures, Exception Handling, MVC Architecture (planned)
+
+
+
+Phase 1 – Planning & Structure
+
+Definir requisitos (CRUD, reservas, GUI, relatórios)
+https://docs.oracle.com/javase/tutorial/java/concepts/index.html
+
+Desenhar UML (classes, casos de uso)
+https://docs.oracle.com/javase/tutorial/java/concepts/class.html
+
+Criar estrutura de pastas do projeto
+https://docs.oracle.com/javase/tutorial/essential/environment/folders.html
+
+Phase 2 – Classes & CRUD
+
+Criar classes principais (Hotel, Room, RoomType, Client, Reservation)
+https://docs.oracle.com/javase/tutorial/java/concepts/class.html
+
+Implementar CRUD para cada classe
+https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html
+
+https://docs.oracle.com/javase/tutorial/collections/intro/index.html
+
+Aplicar regras de negócio (disponibilidade, status de quartos)
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+
+Phase 3 – Reservation System
+
+Criar reservas (associar Cliente + Quarto + Datas)
+https://docs.oracle.com/javase/tutorial/java/javaOO/composition.html
+
+Verificar disponibilidade antes de reservar
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html
+
+Cancelar ou modificar reservas
+https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html
+
+Usar enums para status de reserva e quarto
+https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+
+Phase 4 – Queries & Reports
+
+Consultas de quartos disponíveis
+https://docs.oracle.com/javase/tutorial/collections/interfaces/index.html
+
+Filtros por tipo de quarto
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html
+
+Gerar relatórios
+https://docs.oracle.com/javase/tutorial/java/data/strings.html
+
+https://docs.oracle.com/javase/tutorial/java/data/strings.html#stringbuilder
+
+Phase 5 – Data Persistence (Opcional)
+
+Salvar dados entre sessões (serialização)
+https://docs.oracle.com/javase/tutorial/javabeans/serialization/index.html
+
+Carregar dados na inicialização
+https://docs.oracle.com/javase/tutorial/javabeans/serialization/index.html
+
+Phase 6 – Interface (Opcional)
+
+Criar GUI com Swing
+https://docs.oracle.com/javase/tutorial/uiswing/
+
+Criar GUI com JavaFX
+https://openjfx.io/openjfx-docs/
+
+Telas de cadastro, reservas, check-in/out, disponibilidade
+https://docs.oracle.com/javase/tutorial/uiswing/components/index.html
+
+Phase 7 – Testing
+
+Testes unitários (CRUD, lógica de reserva)
+https://junit.org/junit5/docs/current/user-guide/
+
+Testar fluxo completo
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/assert.html
+
+Phase 8 – Documentation & GitHub
+
+Atualizar README
+https://guides.github.com/features/mastering-markdown/
+
+Subir para GitHub, commits claros, branches
+https://git-scm.com/doc
+
+Phase 9 – Enhancements
+
+Relatórios avançados, autenticação, API web
+https://spring.io/guides/gs/spring-boot/
