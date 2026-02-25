@@ -8,13 +8,13 @@ Designed as a portfolio project to demonstrate practical application of Java, da
 ---
 
 ## Features (Planned)
-| Feature | Status |
-|---------|--------|
+| Feature | Status  |
+|---------|---------|
 | Register hotels, rooms, clients | Planned |
 | Manage reservations | Planned |
 | Client check-in and check-out | Planned |
 | Check room availability | Planned |
-| Billing and history reports | Future |
+| Billing and history reports | Future  |
 
 ---
 
@@ -31,7 +31,6 @@ Designed as a portfolio project to demonstrate practical application of Java, da
 ---
 
 ## Learning Goals
-This project aims to help you:  
 - Apply Java fundamentals in a real system.  
 - Build modular and maintainable code with OOP.  
 - Implement business logic with structured exception handling.  
